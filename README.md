@@ -5,6 +5,8 @@ speakers when Rick Astley is detected on your screen.
 
 https://user-images.githubusercontent.com/870796/161333961-6f4ba4c9-0ce3-4087-9e44-96caa01aca0c.mp4
 
+[See it in action on YouTube](https://youtu.be/uDUFPrNmBNU) or [read more on our blog](https://blog.roboflow.com/rick-realtime-intrusion-checker-kernel/).
+
 ## How to Use
 
 Use [OBS](https://obsproject.com/)'s Virtual Camera feature to pipe your screen through
