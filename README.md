@@ -18,7 +18,7 @@ Clone this repo, cd into the `server` directory and `npm install` the dependenci
 
 Start the web server with `sudo node index.js`.
 
-Navigate to `https://localhost:5000` and use OBS Webcam as the video source.
+Navigate to `http://localhost:5000` and use OBS Webcam as the video source.
 
 Try to rickroll yourself. You audio will mute when Rick is on screen and unmute otherwise.
 
