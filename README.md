@@ -3,6 +3,8 @@
 This project utilizes an advanced computer vision model to mute your
 speakers when Rick Astley is detected on your screen.
 
+![rickblocker](https://user-images.githubusercontent.com/870796/161324855-90673801-744e-410d-b328-3923d3e9bae0.jpg)
+
 ## How to Use
 
 Use [OBS](https://obsproject.com/)'s Virtual Camera feature to pipe your screen through
