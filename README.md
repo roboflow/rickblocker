@@ -5,7 +5,9 @@ speakers when Rick Astley is detected on your screen.
 
 https://user-images.githubusercontent.com/870796/161333961-6f4ba4c9-0ce3-4087-9e44-96caa01aca0c.mp4
 
-[See it in action on YouTube](https://youtu.be/uDUFPrNmBNU) or [read more on our blog](https://blog.roboflow.com/rick-realtime-intrusion-checker-kernel/).
+* [See it in action on YouTube](https://youtu.be/uDUFPrNmBNU),
+* [Read more on our blog](https://blog.roboflow.com/rick-realtime-intrusion-checker-kernel/) or
+* [Download the dataset](https://universe.roboflow.com/april-public-yibrz/never-gonna/2/export) and [try the model](https://universe.roboflow.com/april-public-yibrz/never-gonna) on [Roboflow Universe](https://universe.roboflow.com).
 
 ## How to Use
 
