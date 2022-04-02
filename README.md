@@ -20,7 +20,7 @@ Start the web server with `sudo node index.js`.
 
 Navigate to `http://localhost:5000` and use OBS Webcam as the video source.
 
-Try to rickroll yourself. You audio will mute when Rick is on screen and unmute otherwise.
+Try to rickroll yourself. Your audio will mute when Rick is on screen and unmute otherwise.
 
 ## Tools Used
 
